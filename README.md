@@ -19,5 +19,5 @@ This is the place where I make and break things :rofl:
 
 📊 &nbsp;**Github Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=Harsh97x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=harsh97x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
