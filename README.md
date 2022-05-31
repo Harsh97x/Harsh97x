@@ -4,7 +4,7 @@ This is the place where I make and break things. :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Javascript, React & Web3
-- 📫 &nbsp;How to reach me: [@harshistaken](https://twitter.com/harshistaken) or <a href="mailto:student.harsh94@gmail.com">Email</a>
+- 📫 &nbsp;How to reach me: [@harshistaken](https://twitter.com/harshistaken)
 - 👨‍💻 &nbsp;Read more about my projects at [harshshukla.xyz](https://www.harshshukla.xyz/portifolio)
 
 🔗 &nbsp;**Connect with me**
