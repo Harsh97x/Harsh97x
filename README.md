@@ -1,10 +1,10 @@
-#### Hi , I'm Harsh shukla
+#### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Harsh shukla
 
 This is the place where I make and break things. :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Javascript, React & Web3
-- 📫 &nbsp;How to reach me: [work.harxh@gmail.com](mailto:work.harxh@gmail.com)
+- 📫 &nbsp;How to reach me: [hxrshwork@gmail.com](mailto:hxrshwork@gmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at [harshshukla.xyz](https://www.harshshukla.xyz/portifolio)
 
 🔗 &nbsp;**Connect with me**
