@@ -3,7 +3,7 @@
 This is the place where I make and break things. :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Javascript, React & Web3
+- 🌱 &nbsp;I’m currently learning Javascript
 - 📫 &nbsp;How to reach me: [workhxrsh@gmail.com](mailto:workhxrsh@gmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at [harshshukla.xyz](https://www.harshshukla.xyz/portifolio)
 
