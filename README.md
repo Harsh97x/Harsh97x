@@ -1,6 +1,6 @@
 #### SUP! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-This is place where i tinker.
+This is the place where i tinker.
 
 - 🔭 &nbsp;I’m currently working on something mega cool :wink:
 - 🌱 &nbsp;I’m currently learning Fullstack dev
