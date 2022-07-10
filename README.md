@@ -3,7 +3,7 @@
 This is the place where i tinker.
 
 - 🔭 &nbsp;I’m currently working on something mega cool :wink:
-- 🌱 &nbsp;I’m currently learning Fullstack dev
+- 🌱 &nbsp;I’m currently learning Frontend Development
 - 📫 &nbsp;How to reach me: [workhxrsh@gmail.com](mailto:workhxrsh@gmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at 
 
