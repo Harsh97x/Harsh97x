@@ -1,6 +1,6 @@
 #### SUP! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-This is the place where i build, break and go down the spiral of self-deprecation by looking at own code.
+This is the place where i build, break and go down the spiral of self-deprecation by looking at my code.
 
 - 🔭 &nbsp;I’m currently working on something mega cool :wink:
 - 🌱 &nbsp;I’m currently learning Frontend Development
