@@ -18,5 +18,5 @@ This is the place where i build, break and go down the spiral of self-deprecatio
 
 📊 &nbsp;**Github Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=harsh97x&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=issues,stars)<br/>
+
 
