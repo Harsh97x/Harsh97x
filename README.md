@@ -18,5 +18,4 @@ This is the place where i build, break and go down the spiral of self-deprecatio
 
 📊 &nbsp;**Github Stats**
 
-
-
+![Harsh's Github stats](https://raw.githubusercontent.com/Harsh97X/github-stats/master/generated/overview.svg#gh-dark-mode-only)
