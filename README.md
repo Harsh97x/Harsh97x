@@ -4,7 +4,7 @@ This is the place where i build, break and go down the spiral of self-deprecatio
 
 - 🔭 &nbsp;I’m currently working on something mega cool :wink:
 - 🌱 &nbsp;I’m currently learning Frontend Development
-- 📫 &nbsp;How to reach me: [workhxrsh@gmail.com](mailto:workhxrsh@gmail.com)
+- 📫 &nbsp;How to reach me: [harsh.shukla8888@protonmail.com](mailto:harsh.shukla8888@protonmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at: [https://harsh-shukla.netlify.app/](https://harsh-shukla.netlify.app/)
 
 🔗 &nbsp;**Let's connect**
