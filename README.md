@@ -4,7 +4,7 @@ Hi there! My name is Harsh and I am a frontend developer with a passion for open
 
 - 🔭 &nbsp;I’m currently working on something mega cool :wink:
 - 🌱 &nbsp;I’m currently learning Full stack development
-- 📫 &nbsp;How to reach me: [harsh.shukla8888@protonmail.com](mailto:harsh.shukla8888@protonmail.com)
+- 📫 &nbsp;How to reach me: [Email](mailto:harsh.shukla8888@protonmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at: [https://harsh-shukla.netlify.app/](https://harsh-shukla.netlify.app/)
 
 🔗 &nbsp;**Let's connect**
