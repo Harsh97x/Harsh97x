@@ -1,4 +1,4 @@
-#### SUP! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+#### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 Hi there! My name is Harsh and I am a frontend developer with a passion for open source. I have always been fascinated by the power of technology to bring people together and make a positive impact on the world. That's why I love contributing to open source projects - it gives me the opportunity to give back to the community and collaborate with other talented developers from around the globe.
 
