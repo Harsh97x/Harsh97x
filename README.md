@@ -1,9 +1,9 @@
 #### SUP! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-This is the place where i build, break and go down the spiral of self-deprecation by looking at my code.
+Hi there! My name is Harsh and I am a frontend developer with a passion for open source. I have always been fascinated by the power of technology to bring people together and make a positive impact on the world. That's why I love contributing to open source projects - it gives me the opportunity to give back to the community and collaborate with other talented developers from around the globe.
 
 - 🔭 &nbsp;I’m currently working on something mega cool :wink:
-- 🌱 &nbsp;I’m currently learning Frontend Development
+- 🌱 &nbsp;I’m currently learning Full stack development
 - 📫 &nbsp;How to reach me: [harsh.shukla8888@protonmail.com](mailto:harsh.shukla8888@protonmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at: [https://harsh-shukla.netlify.app/](https://harsh-shukla.netlify.app/)
 
