@@ -9,7 +9,7 @@ Hi there! My name is Harsh and I am a frontend developer with a passion for open
 
 🔗 &nbsp;**Let's connect**
 <p align="left">
-<a href="https://twitter.com/harshistaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshistaken" height="30" width="40" /></a>
+<a href="https://twitter.com/6xrsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="6xrsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshshukla" height="30" width="40" /></a>
 
 🛠️ &nbsp;**Languages and Tools**
