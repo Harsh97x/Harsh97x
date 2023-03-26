@@ -18,5 +18,6 @@ Hi there! My name is Harsh and I am a frontend developer with a passion for open
 
 📊 &nbsp;**Github Stats**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsh97x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=harsh97x&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh97x&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=harsh97x&icon=0&color=9)](https://visitcount.itsvg.in)
